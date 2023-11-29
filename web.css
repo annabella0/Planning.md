@@ -1,0 +1,136 @@
+#events{
+    font-family: cursive ;
+    font-size:30px;
+}
+#event-2{
+    font-family:cursive;
+    font-weight:bold;
+    font-size:40px;
+}
+#company-name{
+    font-family:cursive;
+    font-size:100px;
+    font-stretch:semi-expanded;
+ 
+}
+.dir-img{
+    border:30px;
+    padding:30px;
+    background-position:center;
+    
+}
+body.homepage{
+    background-color:#457bd0;
+    
+    
+}
+body.homepage nav {
+    background-color:#2348d0;  
+    padding: 10px;
+    background-position:center;
+    font-size:30px;
+    font-weight:bold;
+}
+#company-header{
+    font-family:cursive;
+    font-size:100px;
+}
+#about-us{
+
+font-family:cursive;
+font-size:80px;
+    
+}
+.pg2-img2 img{
+float:left;
+border:100px;
+height:500px;
+width:500px;
+padding:20px;
+    
+}
+
+    
+
+.vision{
+   font-size:70px;
+    font-family:cursive;
+    font-weight:bold; 
+}
+#v-paragraph{
+   font-size:30px;
+   font-family:cursive;
+   font-weight:bold; 
+}
+.mission{
+    font-size:60px;
+    font-family:cursive;
+    align-text:center;
+    font-weight:bold;
+    
+    
+}
+#m-paragraph{
+font-size:30px;
+font-family:cursive;
+font-weight:bold;
+
+
+    
+}
+.pg3-img3{
+    float:right;
+    border:100px;
+    padding:30px;
+    height:400px;
+    width:400px;
+   
+}
+
+.our-goals{
+font-size:50px;
+    font-family:cursive;
+    font-weight:bold;
+    
+}
+#g-paragraph{
+font-size:30px;
+font-family:cursive;
+font-weight:bold;
+}
+.projects{
+    font-family:cursive;
+    font-size:100px;
+    font-weight:bold;
+    
+}
+
+#pro-img1 img{
+float:left;
+padding:30px;
+width:300px;
+height:300px;
+}
+
+#pro-img2 img{
+    float:right;
+    padding:40px;
+    width:400px;
+    height:400px;
+   }
+  body.homepage{
+      background-color:#a95cdca2;
+  }
+  body.homepage nav{
+      background-color:#a95cdca2;
+  }
+
+.social-handles img{
+    padding:20px;
+    float:left;
+    width:40px;
+    height:40px;
+    border:60px;
+    
+    
+}
